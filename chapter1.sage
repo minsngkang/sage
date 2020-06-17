@@ -1,5 +1,6 @@
 var('x');
 plot(sqrt(x+4), x, -4, 2)
+#plot to draw a graph, the rest of val -4, 2 covers the domain
 
 var('x');
 plot(abs(x-2), x, -5, 5)
